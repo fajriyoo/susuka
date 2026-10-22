@@ -1,0 +1,22 @@
+{
+  "category": "kinetic-type",
+  "duration_s": 10,
+  "fps": 30,
+  "canvas": { "w": 1080, "h": 1920, "aspect": "9:16" },
+  "style": "Dark tech-editorial: deep navy ground, a quiet neural-network field behind heavy display type, cyan/violet accents, mono metadata rails anchored to the edges.",
+  "palette": ["#07090F", "#F2F5FA", "#4CE1FF", "#8B5CFF", "#5B6475"],
+  "font": "Archivo Black (display) + Outfit (support) + JetBrains Mono (labels)",
+  "beats": [0.2, 2.4, 5.0, 7.6, 9.6],
+  "export": "mp4",
+  "asset_needs": [],
+  "block": null,
+  "customize": {},
+  "content": {
+    "scenes": [
+      { "id": "s1", "start": 0, "end": 2.4, "text": "Dulu, mesin hanya MENGHITUNG.", "emphasis_words": ["MENGHITUNG."], "emotion": "Hook — dry, mechanical", "motion": "word_reveal from left; oversized faded binary scrolls behind", "beats": [0.2] },
+      { "id": "s2", "start": 2.4, "end": 5.0, "text": "Sekarang, mesin BELAJAR.", "emphasis_words": ["BELAJAR."], "emotion": "Build — curiosity", "motion": "hard cut; network lines draw on; emphasis word fade_blur + color_shift to cyan", "beats": [3.4] },
+      { "id": "s3", "start": 5.0, "end": 7.6, "text": "AI — Kecerdasan Buatan", "emphasis_words": ["AI"], "emotion": "Punch — impact", "motion": "slam + glow on giant AI; underline_sweep; nodes pulse", "beats": [5.15] },
+      { "id": "s4", "start": 7.6, "end": 10, "text": "Gunakan dengan BIJAK.", "emphasis_words": ["BIJAK."], "emotion": "Resolve — calm, confident", "motion": "slide_bottom per line, scale_pulse on BIJAK, final fade_out", "beats": [8.6, 9.6] }
+    ]
+  }
+}
